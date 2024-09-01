@@ -1,58 +1,24 @@
-## 👋 Hi, I’m Chinonso Madugba
+# 💫 About Me:
+## 👋 Hi, I’m Chinonso Madugba<br><br>### About Me<br>I am a dedicated and innovative software engineer with extensive experience in application development, solutions design, and R&D management. I have a passion for leveraging technology to solve complex problems and drive impactful change. My career has been marked by a commitment to continuous learning and a drive to stay at the forefront of technological advancements.<br><br>### 🎓 Education<br>- **BSc in Software Engineering**  <br>  Code University of Applied Science, Berlin (Ongoing)  <br>  [code.berlin](https://code.berlin/en/)<br><br>- **BSc in Computer Science**  <br>  National Open University of Nigeria  <br>  [nou.edu.ng](https://nou.edu.ng)<br><br>- **Diploma in Software and Applications Development**  <br>  Unique School of Information Technology, Nigeria<br><br>### 👨‍💻 Work Experience<br>- **Research and Development Manager**  <br>  *VOLTTECHAFRICA* (Feb 2018 – Present)  <br>  - Led a team of ten to develop and deploy applications and API systems.<br>  - Implemented standard operating procedures to achieve team targets.<br><br>- **Solutions Developer**  <br>  *Boiling Point ICT Center* (Jan 2016 – Dec 2018)  <br>  - Developed an E-learning and E-testing system.<br>  - Built a database system for student records management.<br><br>- **Application Developer**  <br>  *KEEPUPLIVE* (May 2015 – Mar 2016)  <br>  - Developed applications for various platforms and wrote efficient code.<br>  - Collaborated with product managers and system analysts to implement software solutions.<br><br>### 🌱 Skills<br>- **Programming Languages:** Java, PHP, Python, JavaScript<br>- **Frameworks:** Node.js, Django, Flask, Spring, Laravel<br>- **Database Management:** MySQL, PostgreSQL, MongoDB<br>- **Cloud & Container Platforms:** AWS, MS Azure, Google Cloud, Kubernetes, Docker<br>- **Project Management:** SCRUM, Agile, JIRA, Trello<br><br>### 🌍 Languages<br>- **English:** Native<br>- **German:** A1 Level (Basic User)<br><br>### 📫 How to reach me<br>- **Email:** madugbachinonso@gmail.com<br>- **LinkedIn:** [Chinonso Emmanuel Madugba](https://www.linkedin.com/in/chinonso-emmanuel-madugba-4605b6191)<br>- **WhatsApp:** +49 15214561535<br><br>### 👀 I’m interested in<br>- Open Source Collaboration<br>- Software Engineering Projects<br>- Research and Development in Tech<br><br>### 💞️ I’m looking to collaborate on<br>- Innovative software development projects<br>- Open-source initiatives that drive social impact<br>- Cloud and API system development<br>
 
-### About Me
-I am a dedicated and innovative software engineer with extensive experience in application development, solutions design, and R&D management. I have a passion for leveraging technology to solve complex problems and drive impactful change. My career has been marked by a commitment to continuous learning and a drive to stay at the forefront of technological advancements.
 
-### 🎓 Education
-- **BSc in Software Engineering**  
-  Code University of Applied Science, Berlin (Ongoing)  
-  [code.berlin](https://code.berlin/en/)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chinonso-emmanuel-madugba-4605b6191) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/iamnonso) 
 
-- **BSc in Computer Science**  
-  National Open University of Nigeria  
-  [nou.edu.ng](https://nou.edu.ng)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=madugba&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=madugba&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=madugba&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- **Diploma in Software and Applications Development**  
-  Unique School of Information Technology, Nigeria
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 👨‍💻 Work Experience
-- **Research and Development Manager**  
-  *VOLTTECHAFRICA* (Feb 2018 – Present)  
-  - Led a team of ten to develop and deploy applications and API systems.
-  - Implemented standard operating procedures to achieve team targets.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=madugba&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- **Solutions Developer**  
-  *Boiling Point ICT Center* (Jan 2016 – Dec 2018)  
-  - Developed an E-learning and E-testing system.
-  - Built a database system for student records management.
+---
+[![](https://visitcount.itsvg.in/api?id=madugba&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- **Application Developer**  
-  *KEEPUPLIVE* (May 2015 – Mar 2016)  
-  - Developed applications for various platforms and wrote efficient code.
-  - Collaborated with product managers and system analysts to implement software solutions.
-
-### 🌱 Skills
-- **Programming Languages:** Java, PHP, Python, JavaScript
-- **Frameworks:** Node.js, Django, Flask, Spring, Laravel
-- **Database Management:** MySQL, PostgreSQL, MongoDB
-- **Cloud & Container Platforms:** AWS, MS Azure, Google Cloud, Kubernetes, Docker
-- **Project Management:** SCRUM, Agile, JIRA, Trello
-
-### 🌍 Languages
-- **English:** Native
-- **German:** A1 Level (Basic User)
-
-### 📫 How to reach me
-- **Email:** madugbachinonso@gmail.com
-- **LinkedIn:** [Chinonso Emmanuel Madugba](https://www.linkedin.com/in/chinonso-emmanuel-madugba-4605b6191)
-- **WhatsApp:** +49 15214561535
-
-### 👀 I’m interested in
-- Open Source Collaboration
-- Software Engineering Projects
-- Research and Development in Tech
-
-### 💞️ I’m looking to collaborate on
-- Innovative software development projects
-- Open-source initiatives that drive social impact
-- Cloud and API system development
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
